@@ -23,4 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt Text](https://i.imgur.com/aXyHyBa.gif)
+I know this link is currently not working due to a bug on GitHub.
+link: https://i.imgur.com/aXyHyBa.gif
+This is the exact code that I was using in READ.me file to display the gif.
+-> `![](https://i.imgur.com/aXyHyBa.gif)`
+
+
